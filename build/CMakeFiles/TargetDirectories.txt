@@ -1,0 +1,3 @@
+/home/gamerguy123lo/Projects/CPP-Primer_answers/build/CMakeFiles/rebuild_cache.dir
+/home/gamerguy123lo/Projects/CPP-Primer_answers/build/CMakeFiles/edit_cache.dir
+/home/gamerguy123lo/Projects/CPP-Primer_answers/build/CMakeFiles/CPPPRIMER.dir

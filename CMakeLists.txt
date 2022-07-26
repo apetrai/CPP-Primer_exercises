@@ -3,4 +3,5 @@
 # to the root binary directory of the project as ${HELLO_BINARY_DIR}.
 cmake_minimum_required (VERSION 2.8.11)
 project (HELLO)
+add_executable(CPPPRIMER main.cpp)
 
